@@ -46,6 +46,8 @@ const RowItem = ({
       case "item-3":
         onDeleteClicked(index);
         break;
+      default:
+        return;
     }
   };
 

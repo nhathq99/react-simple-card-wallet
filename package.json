@@ -1,7 +1,7 @@
 {
   "name": "simple-wallet",
   "version": "0.1.0",
-  "homepage": "https://nhathq99.github.com/react-simple-card-wallet",
+  "homepage": "https://nhathq99.github.io/react-simple-card-wallet",
   "private": true,
   "dependencies": {
     "@ant-design/icons": "^5.2.6",

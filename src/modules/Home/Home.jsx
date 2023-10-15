@@ -26,7 +26,7 @@ const MoreMenu = ({ onItemClick }) => (
   </Menu>
 );
 MoreMenu.propTypes = {
-  onItemClick: PropTypes.void,
+  onItemClick: PropTypes.func,
 }
 
 const Home = () => {
@@ -41,6 +41,8 @@ const Home = () => {
       case 'item-2':
         dispatch(actionDeleteAllCards());
         break;
+      default:
+        return;
     }
   };
 
