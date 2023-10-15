@@ -1,0 +1,14 @@
+* {
+    font-family: 'Source+Sans+3', sans-serif;
+}
+
+body {
+    background-color: #f5f2f1;
+    scrollbar-track-color: #f5f2f1;
+}
+
+input::-webkit-inner-spin-button, input::-webkit-outer-spin-button {
+    -webkit-appearance: none !important;
+    margin: 0 !important;
+    -moz-appearance:textfield !important;
+}
