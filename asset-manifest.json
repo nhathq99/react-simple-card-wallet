@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-simple-card-wallet/static/css/main.c001512a.css",
+    "main.js": "/react-simple-card-wallet/static/js/main.56457d4d.js",
+    "static/js/787.06990965.chunk.js": "/react-simple-card-wallet/static/js/787.06990965.chunk.js",
+    "static/media/heart.svg": "/react-simple-card-wallet/static/media/heart.a1c22d951c23f5b362c941d5a4de004c.svg",
+    "static/media/wallet.svg": "/react-simple-card-wallet/static/media/wallet.2e1e3dd98c4612324134cb01c0f4b6e8.svg",
+    "index.html": "/react-simple-card-wallet/index.html",
+    "main.c001512a.css.map": "/react-simple-card-wallet/static/css/main.c001512a.css.map",
+    "main.56457d4d.js.map": "/react-simple-card-wallet/static/js/main.56457d4d.js.map",
+    "787.06990965.chunk.js.map": "/react-simple-card-wallet/static/js/787.06990965.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c001512a.css",
+    "static/js/main.56457d4d.js"
+  ]
+}
