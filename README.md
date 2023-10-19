@@ -1,5 +1,5 @@
 
-# Ract Simple Card wallet
+# React Simple Card Wallet
 
 ## Demo
 
